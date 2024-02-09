@@ -4,7 +4,7 @@ const links = [
   { href: '/client', label: 'Client' },
   { href: '/drinks', label: 'Drinks' },
   { href: '/grid', label: 'Grid' },
-  { href: '/tasks', label: 'Tasks' },
+  { href: '/crypto', label: 'Crypto' },
 ];
 
 export default function NavBar() {
